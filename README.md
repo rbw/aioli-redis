@@ -1,2 +1,2 @@
-# aioli-redis
-Aioli: Redis support
+aioli-redis: Redis support for the Aioli framework
+---
